@@ -2,15 +2,12 @@
 # 👋 Olá, eu sou o Henrique!
 
 ## 💻 Sobre mim
-🎾 The Mission: Transicionando de projetos de infraestrutura para o mundo de Sports Analytics. Meu objetivo é unir Ciência de Dados e Alta Performance para decifrar o jogo, com foco especial no Tênis.
-🔭 Current Path: Atuando com gestão de projetos em energias renováveis enquanto domino o stack de dados.
-🌱 Learning: Ciência de Dados pela EBAC (Mergulhando em Regressão, Machine Learning e Storytelling com Dados).
-📊 Skills & Interests: Data Science, Python, Power BI, Modelagem Preditiva e Customer Success.
-🌎 Global Mindset: Focado em oportunidades internacionais para aplicar análise de dados no ecossistema esportivo global.
-
-##🎾 Hobbies & Lifestyle
-In-court: Tenista desde a infância, apaixonado pela estratégia por trás de cada match point.
-Off-court: Xadrez, cinema, o mar de Natal/RN e torcedor do Grêmio
+🎾 Missão: Transição para Sports Analytics, unindo Data Science à alta performance no Tênis.
+🔭 Atual: Gestão de projetos de infraestrutura e energias renováveis.
+🌱 Estudos: Ciência de Dados na EBAC (Python, Machine Learning e Estatística).
+📊 Skills: Data Science, Power BI, Modelagem Preditiva e Gestão de Contas.
+🌎 Objetivo: Carreira internacional em tecnologia e dados aplicados ao esporte.
+🎾 Lazer: Tenista, enxadrista, gremista e fã de cinema e do mar de Natal.
   
 ## 💼 Experiências Profissionais
 - Trabalhei durante quase 5 anos em startups com foco em desenvolvimento de plataformas BaaS e SaaS, nas áreas de serviços financeiros
