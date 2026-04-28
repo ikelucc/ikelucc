@@ -10,9 +10,9 @@
 - 🎾 **Lazer**: Tenista, enxadrista, gremista e fã de cinema e do mar de Natal.
   
 ## 💼 Experiências Profissionais
-- Trabalhei durante quase 5 anos em startups com foco em desenvolvimento de plataformas BaaS e SaaS, nas áreas de serviços financeiros
-e mobilidade urbana, em cargos como Closer Enterprise, Key Account Manager e Customer Success.
-- Também fui representante comercial de uma agência de turismo, sendo essa a minha primeira grande experiência profissional
+- **SaaS & Fintech (5 anos)**: Atuação estratégica em startups de tecnologia (BaaS e Mobilidade), ocupando cargos de Closer Enterprise, Key Account e Customer Success. Experiência direta em gestão de contas complexas e análise de métricas de retenção.
+- **Transição de Carreira**: Atualmente aplicando essa visão de negócios em projetos de infraestrutura e energias renováveis, enquanto desenvolvo modelos preditivos e análises de dados aplicadas.
+- **Vendas e Relacionamento**: Histórico em representação comercial no setor de turismo, desenvolvendo as soft skills de negociação e foco no cliente que hoje utilizo para traduzir dados em decisões de negócio.
  
 ## 🛠️ Tecnologias & Ferramentas - Em Aprendizado :)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
